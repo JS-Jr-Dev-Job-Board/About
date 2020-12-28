@@ -27,82 +27,65 @@ We want to create a job board designed for junior or entry level developers.
 <details>
 <summary>Mike Hill</summary>
 <br>
-[Github] (https://github.com/alexandrakay)
+[Github] (https://github.com/Mikehill345)
 </details>
 
 <details>
 <summary>James McDougall</summary>
 <br>
-[Github] (https://github.com/alexandrakay)
+He's not in the repo, is he still in the group?
 </details>
 
 <details>
 <summary>Jay Ponce de Leon</summary>
 <br>
-[Github] (https://github.com/alexandrakay)
+[Github] (https://github.com/jaypdl)
 </details>
 
 <details>
 <summary>Brian Reisman</summary>
 <br>
-[Github] (https://github.com/alexandrakay)
+[Github] (https://github.com/BrianReisman)
 </details>
 
 <details>
 <summary>Fatima Rizvi</summary>
 <br>
-[Github] (https://github.com/alexandrakay)
+[Github] (https://github.com/fatima-rizvi)
 </details>
 
 <details>
 <summary>Virginia Scirrotto</summary>
 <br>
-[Github] (https://github.com/alexandrakay)
+[Github] (https://github.com/c0d3-vp)
 </details>
 
 <details>
 <summary>Tom Sherman</summary>
 <br>
-[Github] (https://github.com/alexandrakay)
+[Github] (https://github.com/tompsherman)
 </details>
 
 <details>
 <summary>Zac Smith</summary>
 <br>
-[Github] (https://github.com/alexandrakay)
+[Github] (https://github.com/mrzacsmith)
 </details>
 
 <details>
 <summary>Melissa Tanksley</summary>
 <br>
-[Github] (https://github.com/alexandrakay)
+[Github] (https://github.com/MelissaTanksley)
 </details>
 
 <details>
 <summary>Sam Tarullo</summary>
 <br>
-[Github] (https://github.com/alexandrakay)
+[Github] (https://github.com/starullo)
 </details>
 
 <details>
 <summary>William Wearing</summary>
 <br>
-[Github] (https://github.com/alexandrakay)
+[Github] (https://github.com/willwearing)
 </details>
-
-
-
-x Ballard, Simone 
-x Calderon, Aszalea 
-x Kay, Alexandra
-x Hill, Mike
-x McDougall, James
-x Ponce de Leon, Jay
-x Reisman, Brian
-x Rizvi, Fatima
-x Scirrotto, Virginia
-x Sherman, Tom
-x Smith, Zac
-x Tanksley, Melissa
-x Tarullo, Sam
-x Wearing, William
