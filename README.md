@@ -9,7 +9,8 @@ We want to create a job board designed for junior or entry level developers.
 <details>
 <summary>Simone Ballard</summary>
 <br>
-[Github] (https://github.com/simonesquad)
+<!-- [Github] (https://github.com/simonesquad) -->
+<a href="https://github.com/simonesquad" target="_blank">Github</a>
 + **Contributions**
     + Coming soon to a ReadMe near you! 
 </details>
