@@ -2,7 +2,7 @@
 
 ## Our goal
 
-We want to create a job board designed for junior or entry level developers.
+We want to create a job board designed for junior or entry level developers. 
 
 ## Meet the team
 
