@@ -18,7 +18,9 @@ We want to create a job board designed for junior or entry level developers.
 <details>
 <summary>Aszalea Calderon</summary>
 <br>
-[Github] (https://github.com/Aszalea-Calderon)
+<!-- [Github] (https://github.com/Aszalea-Calderon) -->
+<a href="https://github.com/Aszalea-Calderon" target="_blank">Github</a>
+
 + **Contributions**
     + Coming soon to a ReadMe near you! 
 </details>
