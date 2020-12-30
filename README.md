@@ -10,6 +10,7 @@ We want to create a job board designed for junior or entry level developers.
 <summary>Simone Ballard</summary>
 <br>
 <a href="https://www.linkedin.com/in/simoneaballard/" target="_blank">LinkedIn</a>
+<br>
 <a href="https://github.com/simonesquad" target="_blank">Github</a>
 
 **Contributions**
