@@ -1,6 +1,6 @@
 # About Us
 
-#### Our goal is to create a job board designed for junior or entry level developers. 
+#### Our goal is to create a job board designed for junior or entry level developers. We've found that other job boards simply aren't effective, so we decided to make a better solution.
 
 ## Meet the team
 
