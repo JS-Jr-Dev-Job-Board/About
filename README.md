@@ -9,7 +9,7 @@ We want to create a job board designed for junior or entry level developers.
 <details>
 <summary>Simone Ballard</summary>
 <br>
-<!-- [Github] (https://github.com/simonesquad) -->
+<a href="https://www.linkedin.com/in/simoneaballard/" target="_blank">LinkedIn</a>
 <a href="https://github.com/simonesquad" target="_blank">Github</a>
 
 **Contributions**
@@ -19,7 +19,7 @@ We want to create a job board designed for junior or entry level developers.
 <details>
 <summary>Aszalea Calderon</summary>
 <br>
-<!-- [Github] (https://github.com/Aszalea-Calderon) -->
+<a href="https://www.linkedin.com/in/aszalea-calderon/" target="_blank">LinkedIn</a>
 <a href="https://github.com/Aszalea-Calderon" target="_blank">Github</a>
 
 **Contributions**
@@ -29,7 +29,7 @@ We want to create a job board designed for junior or entry level developers.
 <details>
 <summary>Alexandra Kay</summary>
 <br>
-<!-- [Github] (https://github.com/alexandrakay) -->
+<a href="link" target="_blank">LinkedIn</a>
 <a href="https://github.com/alexandrakay" target="_blank">Github</a>
 
 **Contributions**
@@ -38,19 +38,8 @@ We want to create a job board designed for junior or entry level developers.
 
 <details>
 <summary>Mike Hill</summary>
-<br>
-<!-- [Github] (https://github.com/Mikehill345) -->
+<br> href="https://www.linkedin.com/in/mikehill345/" target="_blank">LinkedIn</a>
 <a href="https://github.com/Mikehill345" target="_blank">Github</a>
-
-**Contributions**
-+ Coming soon to a ReadMe near you! 
-</details>
-
-<details>
-<summary>James McDougall</summary>
-<br>
-He's not in the repo, is he still in the group?
-<!-- <a href="https://github.com/user" target="_blank">Github</a> -->
 
 **Contributions**
 + Coming soon to a ReadMe near you! 
@@ -59,7 +48,7 @@ He's not in the repo, is he still in the group?
 <details>
 <summary>Jay Ponce de Leon</summary>
 <br>
-<!-- [Github] (https://github.com/jaypdl) -->
+<a href="https://www.linkedin.com/in/jayponcedeleon/" target="_blank">LinkedIn</a>
 <a href="https://github.com/jaypdl" target="_blank">Github</a>
 
 **Contributions**
@@ -69,7 +58,7 @@ He's not in the repo, is he still in the group?
 <details>
 <summary>Brian Reisman</summary>
 <br>
-<!-- [Github] (https://github.com/BrianReisman) -->
+<a href="https://www.linkedin.com/in/brian-reisman/" target="_blank">LinkedIn</a>
 <a href="https://github.com/BrianReisman" target="_blank">Github</a>
 
 **Contributions**
@@ -79,7 +68,7 @@ He's not in the repo, is he still in the group?
 <details>
 <summary>Fatima Rizvi</summary>
 <br>
-<!-- [Github] (https://github.com/fatima-rizvi) -->
+<a href="https://www.linkedin.com/in/fatima-rizvi/" target="_blank">LinkedIn</a>
 <a href="https://github.com/fatima-rizvi" target="_blank">Github</a>
 
 **Contributions**
@@ -89,7 +78,7 @@ He's not in the repo, is he still in the group?
 <details>
 <summary>Virginia Scirrotto</summary>
 <br>
-<!-- [Github] (https://github.com/c0d3-vp) -->
+<a href="https://www.linkedin.com/in/virginia-a-scirrotto-60b072163/" target="_blank">LinkedIn</a>
 <a href="https://github.com/c0d3-vp" target="_blank">Github</a>
 
 **Contributions**
@@ -99,7 +88,7 @@ He's not in the repo, is he still in the group?
 <details>
 <summary>Tom Sherman</summary>
 <br>
-<!-- [Github] (https://github.com/tompsherman) -->
+<a href="https://www.linkedin.com/in/tom-sherman-c-s-m-f-o-t-22236a86/" target="_blank">LinkedIn</a>
 <a href="https://github.com/tompsherman" target="_blank">Github</a>
 
 **Contributions**
@@ -109,7 +98,7 @@ He's not in the repo, is he still in the group?
 <details>
 <summary>Zac Smith</summary>
 <br>
-<!-- [Github] (https://github.com/mrzacsmith) -->
+<a href="https://www.linkedin.com/in/mrzacsmith/" target="_blank">LinkedIn</a>
 <a href="https://github.com/mrzacsmith" target="_blank">Github</a>
 
 **Contributions**
@@ -119,18 +108,8 @@ He's not in the repo, is he still in the group?
 <details>
 <summary>Melissa Tanksley</summary>
 <br>
-<!-- [Github] (https://github.com/MelissaTanksley) -->
+<a href="https://www.linkedin.com/in/melissa-tanksley-698326191/" target="_blank">LinkedIn</a>
 <a href="https://github.com/MelissaTanksley" target="_blank">Github</a>
-
-**Contributions**
-+ Coming soon to a ReadMe near you! 
-</details>
-
-<details>
-<summary>Sam Tarullo</summary>
-<br>
-<!-- [Github] (https://github.com/starullo) -->
-<a href="https://github.com/starullo" target="_blank">Github</a>
 
 **Contributions**
 + Coming soon to a ReadMe near you! 
@@ -139,7 +118,7 @@ He's not in the repo, is he still in the group?
 <details>
 <summary>William Wearing</summary>
 <br>
-<!-- [Github] (https://github.com/willwearing) -->
+<a href="https://www.linkedin.com/in/william-wearing/" target="_blank">LinkedIn</a>
 <a href="https://github.com/willwearing" target="_blank">Github</a>
 
 **Contributions**
