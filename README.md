@@ -11,6 +11,7 @@ We want to create a job board designed for junior or entry level developers.
 <br>
 <a href="https://www.linkedin.com/in/simoneaballard/" target="_blank">LinkedIn</a>
 <br>
+<br>
 <a href="https://github.com/simonesquad" target="_blank">Github</a>
 
 **Contributions**
@@ -21,6 +22,7 @@ We want to create a job board designed for junior or entry level developers.
 <summary>Aszalea Calderon</summary>
 <br>
 <a href="https://www.linkedin.com/in/aszalea-calderon/" target="_blank">LinkedIn</a>
+<br>
 <a href="https://github.com/Aszalea-Calderon" target="_blank">Github</a>
 
 **Contributions**
@@ -31,6 +33,7 @@ We want to create a job board designed for junior or entry level developers.
 <summary>Alexandra Kay</summary>
 <br>
 <a href="link" target="_blank">LinkedIn</a>
+<br>
 <a href="https://github.com/alexandrakay" target="_blank">Github</a>
 
 **Contributions**
@@ -40,6 +43,7 @@ We want to create a job board designed for junior or entry level developers.
 <details>
 <summary>Mike Hill</summary>
 <br> href="https://www.linkedin.com/in/mikehill345/" target="_blank">LinkedIn</a>
+<br>
 <a href="https://github.com/Mikehill345" target="_blank">Github</a>
 
 **Contributions**
@@ -50,6 +54,7 @@ We want to create a job board designed for junior or entry level developers.
 <summary>Jay Ponce de Leon</summary>
 <br>
 <a href="https://www.linkedin.com/in/jayponcedeleon/" target="_blank">LinkedIn</a>
+<br>
 <a href="https://github.com/jaypdl" target="_blank">Github</a>
 
 **Contributions**
@@ -60,6 +65,7 @@ We want to create a job board designed for junior or entry level developers.
 <summary>Brian Reisman</summary>
 <br>
 <a href="https://www.linkedin.com/in/brian-reisman/" target="_blank">LinkedIn</a>
+<br>
 <a href="https://github.com/BrianReisman" target="_blank">Github</a>
 
 **Contributions**
@@ -70,6 +76,7 @@ We want to create a job board designed for junior or entry level developers.
 <summary>Fatima Rizvi</summary>
 <br>
 <a href="https://www.linkedin.com/in/fatima-rizvi/" target="_blank">LinkedIn</a>
+<br>
 <a href="https://github.com/fatima-rizvi" target="_blank">Github</a>
 
 **Contributions**
@@ -80,6 +87,7 @@ We want to create a job board designed for junior or entry level developers.
 <summary>Virginia Scirrotto</summary>
 <br>
 <a href="https://www.linkedin.com/in/virginia-a-scirrotto-60b072163/" target="_blank">LinkedIn</a>
+<br>
 <a href="https://github.com/c0d3-vp" target="_blank">Github</a>
 
 **Contributions**
@@ -90,6 +98,7 @@ We want to create a job board designed for junior or entry level developers.
 <summary>Tom Sherman</summary>
 <br>
 <a href="https://www.linkedin.com/in/tom-sherman-c-s-m-f-o-t-22236a86/" target="_blank">LinkedIn</a>
+<br>
 <a href="https://github.com/tompsherman" target="_blank">Github</a>
 
 **Contributions**
@@ -100,6 +109,7 @@ We want to create a job board designed for junior or entry level developers.
 <summary>Zac Smith</summary>
 <br>
 <a href="https://www.linkedin.com/in/mrzacsmith/" target="_blank">LinkedIn</a>
+<br>
 <a href="https://github.com/mrzacsmith" target="_blank">Github</a>
 
 **Contributions**
@@ -110,6 +120,7 @@ We want to create a job board designed for junior or entry level developers.
 <summary>Melissa Tanksley</summary>
 <br>
 <a href="https://www.linkedin.com/in/melissa-tanksley-698326191/" target="_blank">LinkedIn</a>
+<br>
 <a href="https://github.com/MelissaTanksley" target="_blank">Github</a>
 
 **Contributions**
@@ -120,6 +131,7 @@ We want to create a job board designed for junior or entry level developers.
 <summary>William Wearing</summary>
 <br>
 <a href="https://www.linkedin.com/in/william-wearing/" target="_blank">LinkedIn</a>
+<br>
 <a href="https://github.com/willwearing" target="_blank">Github</a>
 
 **Contributions**
