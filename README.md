@@ -27,17 +27,6 @@
 </details>
 
 <details>
-<summary>Alexandra Kay</summary>
-<br>
-<a href="link" target="_blank">LinkedIn</a>
-<br>
-<a href="https://github.com/alexandrakay" target="_blank">Github</a>
-
-**Contributions**
-+ Coming soon to a ReadMe near you! 
-</details>
-
-<details>
 <summary>Mike Hill</summary>
 <br> href="https://www.linkedin.com/in/mikehill345/" target="_blank">LinkedIn</a>
 <br>
@@ -53,6 +42,17 @@
 <a href="https://www.linkedin.com/in/jayponcedeleon/" target="_blank">LinkedIn</a>
 <br>
 <a href="https://github.com/jaypdl" target="_blank">Github</a>
+
+**Contributions**
++ Coming soon to a ReadMe near you! 
+</details>
+
+<details>
+<summary>Alexandra Myers</summary>
+<br>
+<a href="link" target="_blank">LinkedIn</a>
+<br>
+<a href="https://github.com/alexandrakay" target="_blank">Github</a>
 
 **Contributions**
 + Coming soon to a ReadMe near you! 
