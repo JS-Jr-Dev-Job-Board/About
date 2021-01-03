@@ -9,7 +9,6 @@
 <br>
 <a href="https://www.linkedin.com/in/simoneaballard/" target="_blank">LinkedIn</a>
 <br>
-<br>
 <a href="https://github.com/simonesquad" target="_blank">Github</a>
 
 **Contributions**
