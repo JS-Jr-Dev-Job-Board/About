@@ -7,6 +7,8 @@
 <details>
 <summary>Simone Ballard</summary>
 <br>
+<img src = "img\simone-ballard.PNG" alt = "Simone Ballard">
+<br>
 <a href="https://www.linkedin.com/in/simoneaballard/" target="_blank">LinkedIn</a>
 <br>
 <a href="https://github.com/simonesquad" target="_blank">Github</a>
