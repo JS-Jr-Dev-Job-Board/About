@@ -117,7 +117,8 @@
 <a href="https://github.com/tompsherman" target="_blank">Github</a>
 
 **Contributions**
-+ Coming soon to a ReadMe near you! 
++ Basic schema design
++ Express basic structure that includes routes, controller, models and implemented MongoDB connections. 
 </details>
 
 <details>
